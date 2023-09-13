@@ -4,7 +4,7 @@ import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
 import thumbInkdrop from '../public/images/works/Work/ai-gen.png'
-import thumbWalknote from '../public/images/works/Work/AiBot.png'
+import thumbWalknote from '../public/images/works/Work/aibot.png'
 import thumbFourPainters from '../public/images/works/Work/dashbord.png'
 import thumbMenkiki from '../public/images/works/Work/image-editor.png'
 import thumbMargelo from '../public/images/works/Work/scary-move-poster.jpg'
