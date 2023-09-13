@@ -11,7 +11,7 @@ const Main = ({ children, router }) => {
         <meta name="description" content="Abdullah's Home Page" />
         <meta name="author" content="Abdullah Ramadan" />
         <meta name="author" content="Abdullah" />
-        <meta name="twitter:title" content="Takuya Matsuyama" />
+        <meta name="twitter:title" content="Abdullah Ramadan" />
         <title>Abdullah Ramadan - Homepage</title>
       </Head>
 
