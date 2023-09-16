@@ -24,7 +24,7 @@ const Works = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
           <WorkGridItem
-            id="inkdrop"
+            id="imageGenerator"
             title="AI Image Generator"
             thumbnail={thumbInkdrop}
           >
@@ -33,7 +33,7 @@ const Works = () => (
         </Section>
         <Section>
           <WorkGridItem
-            id="walknote"
+            id="chatBot"
             title="AI Chat Bot"
             thumbnail={thumbWalknote}
           >
@@ -44,7 +44,7 @@ const Works = () => (
 
         <Section delay={0.1}>
           <WorkGridItem
-            id="fourpainters"
+            id="mernDashboard"
             title="Full Stack Mern Dashboard"
             thumbnail={thumbFourPainters}
           >
@@ -54,7 +54,7 @@ const Works = () => (
         </Section>
         <Section delay={0.1}>
           <WorkGridItem
-            id="menkiki"
+            id="imageEditor"
             thumbnail={thumbMenkiki}
             title="Image Editor"
           >
@@ -74,7 +74,7 @@ const Works = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.3}>
           <WorkGridItem
-            id="margelo"
+            id="filmPoster"
             thumbnail={thumbMargelo}
             title="Film Poster"
           >
@@ -83,7 +83,7 @@ const Works = () => (
         </Section>
         <Section delay={0.3}>
           <WorkGridItem
-            id="modetokyo"
+            id="recipes"
             thumbnail={thumbModeTokyo}
             title="Recipes "
           >
@@ -92,7 +92,7 @@ const Works = () => (
         </Section>
         <Section delay={0.3}>
           <WorkGridItem
-            id="styly"
+            id="diceGame"
             thumbnail={thumbStyly}
             title="Roiling Dice Game"
           >
@@ -110,7 +110,7 @@ const Works = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.5}>
           <WorkGridItem
-            id="pichu2"
+            id="restaurant"
             thumbnail={thumbPichu2}
             title="Restaurant Project"
           >
@@ -119,7 +119,7 @@ const Works = () => (
         </Section>
         <Section delay={0.5}>
           <WorkGridItem
-            id="freedbtagger"
+            id="snakeGame"
             thumbnail={thumbFreeDBTagger}
             title="Snake Game"
           >
@@ -127,7 +127,11 @@ const Works = () => (
           </WorkGridItem>
         </Section>
         <Section delay={0.6}>
-          <WorkGridItem id="amembo" thumbnail={thumbAmembo} title="Portfolio">
+          <WorkGridItem
+            id="portfolio"
+            thumbnail={thumbAmembo}
+            title="Portfolio"
+          >
             Modern Portfolio using ReactJS
           </WorkGridItem>
         </Section>

@@ -188,18 +188,20 @@ const Home = () => (
         </List>
 
         <Heading as="h3" variant="section-title">
-          Projects
+          Let's Create Together
         </Heading>
-        <p>You will find all my WORK here , Just press the button below...</p>
+        <p>
+          Crafting Your Vision into Perfection, Just press the button below...
+        </p>
 
         <Box align="center" my={4}>
           <Button
             as={NextLink}
-            href="https://www.abdullah-dev.tech"
+            href="mailto:abdullahramadan2030@gmail.com"
             scroll={false}
             colorScheme="teal"
           >
-            Click here ❤️
+            Let's Connect ♥
           </Button>
         </Box>
       </Section>
