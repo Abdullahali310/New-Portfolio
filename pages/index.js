@@ -201,7 +201,7 @@ const Home = () => (
             scroll={false}
             colorScheme="teal"
           >
-            Let's Connect ♥
+            Get in Touch ♥
           </Button>
         </Box>
       </Section>
