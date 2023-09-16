@@ -188,7 +188,7 @@ const Home = () => (
         </List>
 
         <Heading as="h3" variant="section-title">
-          Let's Create Together
+          Let&apos;s Create Together
         </Heading>
         <p>
           Crafting Your Vision into Perfection, Just press the button below...
@@ -201,7 +201,7 @@ const Home = () => (
             scroll={false}
             colorScheme="teal"
           >
-            Get in Touch ♥
+            Let&apos;s Connect ♥
           </Button>
         </Box>
       </Section>
