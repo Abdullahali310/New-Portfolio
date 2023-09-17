@@ -111,8 +111,7 @@ const Home = () => (
         <BioSection>
           <BioYear>2020</BioYear>
           He has obtained a bachelor&apos;s degree in Management Information
-          Systems. at Delta Higher Institute of Computers (معهد الدلتا العالي
-          للحاسبات)
+          Systems, at Delta Higher Institute of Computers .
         </BioSection>
         <BioSection>
           <BioYear>2022 to present</BioYear>
