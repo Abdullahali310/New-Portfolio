@@ -4,7 +4,6 @@ import {
   Link,
   List,
   ListItem,
-
   Heading,
   Center
 } from '@chakra-ui/react'
@@ -32,7 +31,7 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>URL</Meta>
-          <Link href="hhttps://mern-dashboard.netlify.app/">
+          <Link href="https://mern-dashboard.netlify.app/" target="_blank">
             Full Stack Mern Dashboard <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

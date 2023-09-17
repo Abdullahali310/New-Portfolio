@@ -31,7 +31,7 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>URL</Meta>
-          <Link href="https://abdullah-portfolio0.netlify.app/">
+          <Link href="https://abdullah-portfolio0.netlify.app/" target="_blank">
             Modern Portfolio
           </Link>
         </ListItem>

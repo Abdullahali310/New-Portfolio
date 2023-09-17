@@ -1,10 +1,4 @@
-import {
-  Container,
-  Badge,
-  Link,
-  List,
-  ListItem,
-} from '@chakra-ui/react'
+import { Container, Badge, Link, List, ListItem } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Title, WorkImage, Meta } from '../../components/work'
@@ -32,7 +26,7 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>URL</Meta>
-          <Link href="https://recipes-app0.netlify.app/">
+          <Link href="https://recipes-app0.netlify.app/" target="_blank">
             Recipes <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

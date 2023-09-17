@@ -36,13 +36,16 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>URL</Meta>
-          <Link href="https://image-editor-ar.netlify.app/">
+          <Link target="_blank" href="https://image-editor-ar.netlify.app/">
             Image Editor <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Source</Meta>
-          <Link href="https://github.com/Abdullahali310/Image-Editor">
+          <Link
+            href="https://github.com/Abdullahali310/Image-Editor"
+            target="_blank"
+          >
             https://github.com/Abdullahali310/Image-Editor{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>

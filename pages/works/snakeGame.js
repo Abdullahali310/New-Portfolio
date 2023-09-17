@@ -5,8 +5,7 @@ import {
   List,
   ListItem,
   Heading,
-  Center,
-
+  Center
 } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
 import { Title, WorkImage, Meta } from '../../components/work'
@@ -31,7 +30,9 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>URL</Meta>
-          <Link href="https://snake-game0.netlify.app/">Snake Game</Link>
+          <Link href="https://snake-game0.netlify.app/" target="_blank">
+            Snake Game
+          </Link>
         </ListItem>
       </List>
 

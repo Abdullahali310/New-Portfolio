@@ -31,7 +31,10 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>URL</Meta>
-          <Link href="https://ai-chat-open-e523qtuk2-abdullahali310.vercel.app/">
+          <Link
+            target="_blank"
+            href="https://ai-chat-open-e523qtuk2-abdullahali310.vercel.app/"
+          >
             https://ai-chat-open-e523qtuk2-abdullahali310.vercel.app/{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>

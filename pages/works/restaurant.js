@@ -1,15 +1,14 @@
 import {
   Container,
   Badge,
-
   List,
   ListItem,
-
   Heading,
-  Center
+  Center,
+  Link
 } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
-
+import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Title, WorkImage, Meta } from '../../components/work'
 import P from '../../components/paragraph'
 
@@ -29,6 +28,18 @@ const Work = () => (
         <ListItem>
           <Meta>Stack</Meta>
           <span>Html, Css</span>
+        </ListItem>
+      </List>
+
+      <List ml={4} my={4}>
+        <ListItem>
+          <Meta>URL</Meta>
+          <Link
+            href="https://615a4601663db6ada4488dc4--restaurant-ar.netlify.app/"
+            target="_blank"
+          >
+            Restaurant landing Page <ExternalLinkIcon mx="2px" />
+          </Link>
         </ListItem>
       </List>
 
