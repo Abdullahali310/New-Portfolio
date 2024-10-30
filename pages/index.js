@@ -117,6 +117,12 @@ const Home = () => (
           <BioYear>2022 to present</BioYear>
           Working as a freelancer
         </BioSection>
+        <BioSection>
+          <BioYear>2024</BioYear>
+          Graphic Designer <br /> ALamer Electrical Industries <br /> Designed
+          and developed product packaging, including LED bulb packaging,
+          aligning with brand
+        </BioSection>
       </Section>
 
       <Section delay={0.3}>

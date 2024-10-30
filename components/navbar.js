@@ -106,7 +106,7 @@ const Navbar = props => {
           </LinkItem>
           <LinkItem
             target="_blank"
-            href="https://wa.link/melon2"
+            href="https://wa.link/mn8kiy"
             path={path}
             display="inline-flex"
             alignItems="center"
